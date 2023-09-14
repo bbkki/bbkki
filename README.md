@@ -2,4 +2,4 @@
 - 👀 I’m interested in reading.
 - 🌱 I’m currently learning Java.
 
-Love coding!
+Just love coding!
